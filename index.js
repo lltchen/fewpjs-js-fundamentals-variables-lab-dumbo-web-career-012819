@@ -1,3 +1,3 @@
 const companyName = "Scuber";
-let companyCeo = "Susan Smithl"
+let companyCeo = "Susan Smith"
 let mostProfitableNeighborhood = "Chelsea";
